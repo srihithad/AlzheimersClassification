@@ -1,6 +1,6 @@
 /***************************************************************************************
 *    Title: Alzheimers Classification source code
-*    Author: Srihitha Dasari
+*    Author: Dasari, S.
 *    Date: 2020
 *    Code version: 1.0
 *
