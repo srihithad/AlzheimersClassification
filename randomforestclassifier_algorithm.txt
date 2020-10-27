@@ -1,3 +1,12 @@
+/***************************************************************************************
+*    Title: Alzheimers Classification source code
+*    Author: Srihitha Dasari
+*    Date: 2020
+*    Code version: 1.0
+*
+***************************************************************************************/
+
+
 dataset = pd.read_csv('c:/users/srihi/Desktop/feature_extraction_data.csv', header = None)
 
 dataset.columns = ['Age', 'MMSE','GM Vol','WM Vol','CSF Vol','Whole Brain Vol','GM/WM','GM/WB','WM/WB','CSF/WB','CDR']
